@@ -12,13 +12,13 @@ image_metadata:
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
+resourcetype: RLink
 rlink:
   backup_url: ''
   is_broken: ''
   is_image: false
-  text: ''
-  url: ''
+  text: s
+  url: s
 title: RLINK
 uid: c843f653-e999-4734-8362-af31c2154a12
 video_files:

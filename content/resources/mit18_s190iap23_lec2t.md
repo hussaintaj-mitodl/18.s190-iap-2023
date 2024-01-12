@@ -1,0 +1,34 @@
+---
+body: ''
+content_type: resource
+draft: false
+file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/mit18_s190iap23_lec2t.tex
+file_size: 18668
+file_type: text/x-tex
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Image
+rlink:
+  backup_url: ''
+  is_broken: ''
+  is_image: false
+  text: ''
+  url: ''
+title: RLINK
+uid: c843f653-e999-4734-8362-af31c2154a12
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---
